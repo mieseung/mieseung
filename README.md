@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mieseung@gmail.com)](mailto:mieseung@gmail.com)
 
 
-- 🔭 I’m currently working on NAVER CLOVA HealthCare AI.
+- 🔭 I’m currently working on BankSalad.
 - 🌱 I’m currently learning Machine Learning, especially NLP.
 - 💡 I'm currently interested in Language model, Data Science, and Server.
 - 🧇 I'm a Backend Engineer in [WaffleStudio](https://github.com/wafflestudio).
