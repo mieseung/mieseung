@@ -5,8 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mieseung@gmail.com)](mailto:mieseung@gmail.com)
 
 
-- 🔭 I’m currently working on [BankSalad](https://github.com/banksalad).
-- 🌱 I’m currently learning Machine Learning, especially NLP.
-- 💡 I'm currently interested in Language model, Data Science, and Server.
-- 🧇 I'm a Backend Engineer in [WaffleStudio](https://github.com/wafflestudio).
+- 🔭 I’m currently working on [MOLOCO](https://www.moloco.com/).
+- 💡 I'm currently interested in ML model, Data Science, and Server.
+- 🧇 I was a Backend Engineer in [WaffleStudio](https://github.com/wafflestudio).
 - 📫 How to reach me: mieseung@gmail.com
