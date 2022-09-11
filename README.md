@@ -4,8 +4,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miseung-kim-459556200/)](https://www.linkedin.com/in/miseung-kim-459556200)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mieseung@gmail.com)](mailto:mieseung@gmail.com)
 
-
-- 🔭 I’m currently working on [MOLOCO](https://www.moloco.com/).
-- 💡 I'm currently interested in ML model, Data Science, and Server.
-- 🧇 I was a Backend Engineer in [WaffleStudio](https://github.com/wafflestudio).
-- 📫 How to reach me: mieseung@gmail.com
